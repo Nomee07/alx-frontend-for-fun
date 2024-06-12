@@ -1,9 +1,7 @@
-// This file sets the text color for button elements and changes it on hover
-
 button {
-  color: #FF0000;
+    color: #FF0000;
 
-  &:hover {
-    color: #00FF00;
-  }
+    &:hover {
+        color: #00FF00;
+    }
 }
